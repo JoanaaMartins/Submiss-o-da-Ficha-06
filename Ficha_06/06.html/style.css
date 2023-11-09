@@ -1,0 +1,26 @@
+body{   
+    background-color: #070606;
+    
+} 
+h1{  
+    color: #FFFFFF;  
+    text-align: none;  
+    font-family: 'Raleway';
+    font-size: 32px;
+}
+p{ 
+    color: #BDBDBD; 
+    font-size: 16px;
+}
+.img{ 
+    border: 16px;
+}
+.btn{ 
+    background-color:#2B892E; 
+    color: white; 
+    padding: 15px 32px;  
+    font-size: 10px; 
+    border-radius: 25px; 
+    margin: 4px 2px; 
+    cursor: pointer;
+}
